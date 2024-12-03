@@ -1,2 +1,2 @@
 # python-learning
-python examples to get started with python
+pushing my python notes to repository
